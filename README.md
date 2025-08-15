@@ -1,6 +1,3 @@
-# Tomorrow-s-Leaders-Today-Cybersecurity-Awareness
-Cybersecurity awareness materials created during internship with Tomorrow’s Leaders Today
-
 # Cybersecurity Awareness Project – Tomorrow’s Leaders Today (TLT)
 
 ## Overview
@@ -30,6 +27,8 @@ This project was developed during my cybersecurity internship with **Tomorrow’
 - Research and report writing
 - Presentation of findings
 - Cybersecurity frameworks and best practices
+
+---
 
 *Project completed as part of cybersecurity internship at Tomorrow’s Leaders Today (TLT).*
 
