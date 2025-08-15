@@ -31,4 +31,5 @@ This project was developed during my cybersecurity internship with **Tomorrow’
 - Presentation of findings
 - Cybersecurity frameworks and best practices
 
+*Project completed as part of cybersecurity internship at Tomorrow’s Leaders Today (TLT).*
 
